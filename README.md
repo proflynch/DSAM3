@@ -5,7 +5,7 @@ Table of Contents
 
 Index of MATLAB and Simulink Files
 
-Data Folder
+Data Folder - Data Files
 
 Solutions File - DSAM3_Solutions.pdf
 
