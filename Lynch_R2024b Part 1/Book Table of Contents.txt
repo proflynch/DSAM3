@@ -1,0 +1,215 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 2nd Edition %
+% COPYRIGHT SPRINGER INTERNATIONAL 2024    STEPHEN LYNCH       %
+% BOOK PUBLISHED USING R2024b                                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+TABLE OF CONTENTS
+
+Preface
+
+1. A Tutorial Introduction to MATLAB and the Symbolic Math Toolbox
+	1.1 Tutorial One: The Basics and the Symbolic Math Toolbox (1 Hour) 
+	1.2 Tutorial Two: Plots and Differential Equations (2 Hours) 
+        1.3 MATLAB Program Files, Scripts or M-Files 
+	1.4 MATLAB Live Scripts
+        1.5 Hints for Programming 
+        1.6 MATLAB Exercises 
+           
+2. Linear Discrete Dynamical Systems
+        2.1 Recurrence Relations 
+        2.2 The Leslie Model
+        2.3 Harvesting and Culling Policies
+        2.4 MATLAB Commands
+        2.5 Exercises 
+           
+3. Nonlinear Discrete Dynamical Systems        
+	3.1 The Tent Map and Graphical Iterations 
+        3.2 Fixed Points and Periodic Orbits 
+        3.3 The Logistic Map, Bifurcation Diagram, and Feigenbaum Number 
+        3.4 Gaussian and Henon Maps 
+	3.5 Applications
+        3.6 MATLAB Commands 
+        3.7 Exercises
+           
+4. Complex Iterative Maps
+        4.1 Julia Sets and the Mandelbrot Set 
+        4.2 Boundaries of Periodic Orbits 
+	4.3 Newton Fractals
+        4.4 MATLAB Commands 
+        4.5 Exercises
+           
+5. Electromagnetic Waves and Optical Resonators
+        5.1 Maxwell's Equations and Electromagnetic Waves 
+        5.2 Historical Background 
+        5.3 The Nonlinear Simple Fibre Ring Resonator 
+        5.4 Chaotic Attractors and Bistability 
+        5.5 Linear Stability Analysis 
+        5.6 Instabilities and Bistability 
+        5.7 MATLAB Commands 
+        5.8 Exercises 
+            
+6. Fractals and Multifractals
+        6.1 Construction of Simple Examples 
+        6.2 Calculating Fractal Dimensions
+        6.3 A Multifractal Formalism 
+        6.4 Multifractals in the Real World and Some Simple Examples 
+        6.5 MATLAB Commands 
+        6.6 Exercises 
+
+7. Neural Networks and Neurodynamics
+	7.1 History and Theory of Neural Networks
+	7.2 The Discrete Hopfield Network
+	7.3 The Backpropagation Algorithm
+	7.4 Machine Learning on Boston Housing Data
+	7.5 Neurodynamics
+	7.6 Exercises
+           
+8. The Image Processing Toolbox
+	8.1 Image Processing and Matrices
+	8.2 An Introduction to Signal Processing
+	8.3 The Fast Fourier Transform on Images
+	8.4 Exercises		   		   
+           
+9. Differential Equations
+        9.1 Simple Differential Equations and Applications 
+        9.2 Applications to Chemical Kinetics 
+        9.3 Applications to Electric Circuits 
+        9.4 Existence and Uniqueness Theorem 
+        9.5 MATLAB Commands
+        9.6 Exercises
+
+10. Numerical Methods for ODEs and PDEs
+	10.1 Euler's Method to Solve ODEs
+	10.2 Runge-Kutta Method (RK4)
+	10.3 Finite Difference Method: The Heat Equation
+	10.4 Finite Difference Method: The Wave Equation
+	10.5 Exercises
+           
+11. Planar Systems
+        11.1 Canonical Forms 
+        11.2 Eigenvectors Defining Stable and Unstable Manifolds 
+        11.3 Phase Portraits of Linear Systems in the Plane 
+        11.4 Linearization and Hartman's Theorem 
+        11.5 Constructing Phase Plane Diagrams 
+        11.6 MATLAB Commands 
+        11.7 Exercises 
+           
+12. Interacting Species
+        12.1 Competing Species 
+        12.2 Predator-Prey Models 
+        12.3 Other Characteristics Affecting Interacting Species 
+        12.4 MATLAB Commands
+        12.5 Exercises 
+           
+13. Limit Cycles
+        13.1 Historical Background 
+        13.2 Existence and Uniqueness of Limit Cycles in the Plane 
+        13.3 Non-Existence of Limit Cycles in the Plane 
+	13.4 Perturbation Methods
+	13.5 MATLAB Commands
+        13.6 Exercises 
+           
+14. Hamiltonian Systems, Lyapunov Functions, and Stability
+        14.1 Hamiltonian Systems in the Plane 
+        14.2 Lyapunov Functions and Stability  
+	14.3 The Continuous Hopfield Model
+        14.4 MATLAB Commands  
+        14.5 Exercises 
+           
+15. Bifurcation Theory
+        15.1 Bifurcations of Nonlinear Systems in the Plane 
+	15.2 Normal Forms
+        15.3 Multistability and Bistability 
+        15.4 MATLAB Commands 
+        15.5 Exercises
+           
+16. Three-Dimensional Autonomous Systems and Chaos
+        16.1 Linear Systems and Canonical Forms
+        16.2 Nonlinear Systems and Stability 
+        16.3 The Rössler System and Chaos 
+        16.4 The Lorenz Equations, Chua's Circuit, and the Belousov-Zhabotinski Reaction 
+        16.5 MATLAB Commands 
+        16.6 Exercises 
+           
+17. Poincaré Maps and Nonautonomous Systems in the Plane       
+        17.1 Poincaré Maps 
+        17.2 Hamiltonian Systems with Two Degrees of Freedom   
+        17.3 Nonautonomous Systems in the Plane 
+        17.4 MATLAB Commands 
+        17.5 Exercises
+           
+18. Local and Global Bifurcations
+        18.1 Small-Amplitude Limit Cycle Bifurcations 
+	18.2 Gröbner Bases
+        18.3 Melnikov Integrals and Bifurcating Limit Cycles from a Center
+        18.4 Homoclinic Bifurcations 
+        18.5 MATLAB Commands
+        18.6 Exercises 
+           
+19. The Second Part of David Hilbert's 16'th Problem
+        19.1 Statement of Problem and Main Results 
+        19.2 Poincare Compactification 
+        19.3 Global Results for Lienard Systems 
+        19.4 Local Results for Lienard Systems 
+        19.5 Exercises 
+
+20. Delay Differential Equations
+	20.1 Introduction and Method of Steps
+	20.2 Applications in Biology
+	20.3 Applications in Nonlinear Optics
+	20.4 Other Applications
+	20.5 MATLAB Commands
+	20.6 Exercises
+               
+21. Chaos Control and Synchronization
+        21.1 Historical Background 
+        21.2 Controlling Chaos in the Logistic Map 
+        21.3 Controlling Chaos in the Hénon Map 
+	21.4 Chaos Synchronization
+        21.5 MATLAB Commands 
+        21.6 Exercises 
+
+22. SIMULINK
+        22.1 Introduction
+        22.2 Electric Circuits 
+        22.3 A Mechanical System 
+        22.4 Nonlinear Optics 
+        22.5 The Lorenz System and Chaos Synchronization
+        22.6 Exercises
+           
+23. Binary Oscillator Computing
+	23.1 Brain Inspired Computing
+	23.2 Oscillatory Threshold Logic
+	23.3 Applications and Future Work
+	23.4 An Assay for Neuronal Degradation
+	23.5 MATLAB Commands
+	23.6 Exercises
+
+24. The Deep Learning Toolbox
+	24.1 An Introduction to AI
+	24.2 Linear Regression using Trainnet
+	24.3 Machine and Deep Learning Apps
+	24.4 RNNs and using LSTM to Predict Chaotic and Financial Time Series
+	24.5 CNNs and the Deep Network Designer
+	24.6 Further Reading
+	24.7 Exercises
+
+25. Coursework and Examination-Type Questions
+	25.1 Discrete CWK Questions
+	25.2 Continuous CWK Questions
+	25.3 Examination 1
+	22.4 Examination 2
+	22.5 Examination 3
+           
+26. Solutions to Exercises Accessed Through GitHub 
+
+References
+           Textbooks         
+           Research Papers  
+           
+MATLAB Program File Index
+
+Simulink Model File Index
+
+Index
