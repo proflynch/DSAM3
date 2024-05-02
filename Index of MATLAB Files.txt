@@ -1,0 +1,134 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 3rd Edition %
+% COPYRIGHT SPRINGER/BIRKHAUSER 2024    STEPHEN LYNCH          %
+% MATLAB FILES UPDATED FOR R2024b                              %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+MATLAB and Simulink Files
+
+
+Program_01a.m --- Tutorial One (Run code in the Command Window).
+Program_01b.m --- Tutorial Two (Run code in the Command Window).
+Program_01c.m --- The Fibonacci sequence.
+Program_01d.m --- Conditional statements.
+Program_01e.m --- For loop.
+Program_01f.m --- Vectorized program.
+Program_01g.mlx --- Live script. Two curves on one plot.
+Program_01h.mlx --- Live script. Harmonic and damped motion of a
+		    pendulum.
+Program_02a.m --- Solving simple recurrence relations.
+Program_02b.m --- Eigenvalues and eigenvectors of a Leslie matrix.
+Program_02c.m --- Age class plot.
+Program_03a.m --- Graphical iteration of the tent map.
+Program_03b.m --- Graphical iteration of the logistic map.
+Program_03c.m --- Computing the Lyapunov exponent.
+Program_03d.m --- Bifurcation diagram of the logistic map with
+                  feedback.
+Program_03e.m --- Bifurcation diagram of the Gaussian map with
+		  feedback.
+Program_03f.m --- Chaotic attractor of the Henon map.
+Program_03g.m --- Lyapunov exponents of the Henon map.
+Program_04a.m --- Julia set.
+Program_04b.m --- Mandelbrot set (black and white).
+Program_04c.m --- Mandelbrot set (color).
+Program_04d.m --- Newton fractal.
+Program_05a.m --- Finding fixed points of period one.
+Program_05b.m --- Ikeda map chaotic attractor.
+Program_05c.m --- Bifurcation diagram (second iterative method).
+Program_05d.m --- Animated bifurcation diagram.
+Program_06a.m --- The Koch curve fractal.
+Program_06b.m --- The Sierpinski triangle fractal.
+Program_06c.m --- Barnsley’s fern.
+Program_06d.m --- The tau curve multifractal spectrum.
+Program_06e.m --- The Dq curve multifractal spectrum.
+Program_06f.m --- The f-alpha curve multifractal spectrum.
+Program_07a.m --- ANN for an AND gate.
+Program_07b.m --- ANN for an OR gate.
+Program_07c.m --- Simple backpropagation.
+Program_07d.m --- Boston housing ANN. Machine learning.
+Program_07e.m --- Stability diagram of a neuromodule.
+Program_08a.m --- Generating a 2x2 multifractal image.
+Program_08b.m --- Counting colored pixels in an image.
+Program_08c.m --- Statistical analysis: rice grains and centroids.
+Program_08d.m --- Signal processing, power spectrum.
+Program_08e.m --- Chaotic attractor and power spectrum.
+Program_08f.m --- Image compression using a low pass filter.
+Program_09a.m --- Simple ODE examples.
+Program_09b.m --- Numerical solution to a population model.
+Program_09c.m --- A series solution to the van der Pol system.
+Program_09d.m --- Numerical against series solution.
+Program_09e.m --- Chemical kinetics.
+Program_10a.m --- Euler’s method.
+Program_10b.m --- Runge-Kutta method (RK4).
+Program_10c.m --- PDE: The heat equation, heat in a rod.
+Program_10d.m --- PDE: The wave equation, animation of a guitar string.
+Program_11a.m --- Phase portrait of a linear system.
+Program_11b.m --- Phase portrait of a nonlinear system. Program_12a.m --- Phase portrait and time series: predator/prey
+model.
+Program_13a.m --- Limit cycle of the van der Pol system.
+Program_13b.m --- Limit cycle of a Fitzhugh-Nagumo system.
+Program_13c.m --- Non-convex limit cycle.
+Program_13d.m --- Two limit cycles in a Kaldor economics model.
+Program_13e.m --- Perturbation methods, collect eps terms.
+Program_13f.m --- Perturbation methods, Duffing equation.
+Program_14a.m --- Surface and contour plot, double-well potential.
+Program_14b.m --- Lyapunov function for a continuous Hopfield
+network.
+Program_15a.m --- Animation of a simple curve.
+Program_15b.m --- Finding critical points and plotting bifurcation
+                  diagrams.
+Program_15c.m --- Hopf bifurcation animation.
+Program_16a.m --- Lorenz chaotic attractor.
+Program_16b.m --- Chua’s chaotic attractor.
+Program_16c.m --- The Chapman cycle of ozone production.
+Program_16d.m --- Lyapunov exponents of the Lorenz system.
+Program_16e.m --- The Belousov-Zhabotinski reaction.
+Program_16f.m --- Chua circuit animation.
+Program_17a.m --- Poincare return map.
+Program_17b.m --- Hamiltonian with two degrees of freedom.
+Program_17c.m --- Phase portrait of a nonautonomous system.
+Program_17d.m --- Poincare section for a Duffing system.
+Program_17e.m --- Phase portrait for a Hamiltonian with two degrees of
+                  freedom.
+Program_17f.m --- Bifurcation diagram, Duffing system (with feedback).
+Program_18a.m --- Small-amplutude limit cycles for a Lienard system.
+Program_18b.m --- Division algorithm, multivariate polynomials.
+Program_18c.m --- Computing a Groebner basis.
+Program_18d.m --- Determining the coefficients of a Lyapunov function.
+Program_18e.m --- Animation, global bifurcation of a homoclinic limit
+	          cycle.
+Program_20a.m --- Solve a DDE with initilal history and constant time
+                  delays.
+Program_20b.m --- Solve a delayed predator/prey model
+Program_20c.m --- Solve the Lang-Kobayashi DDEs in nonlinear optics.
+Program_21a.m --- Controlling chaos in the logistic map.
+Program_21b.m --- Controlling chaos in the Henon map.
+Program_23a.m --- Hodgkon-Huxley equations, time series solutions.
+Program_23b.m --- Fitzhugh-Nagumo limit cycle and time series.
+Program_23c.m --- Fitzhugh-Nagumo binary oscillator half-adder.
+Program_23d.m --- Animation of a JJ limit cycle bifurcation.
+Program_23e.m --- Pinched hysteresis in a memristor.
+Program_24a.m --- ANN for linear regression.
+Program_24b.m --- Using a RNN LSTM network to predict chaos.
+Program_24c.m --- Using a RNN LSTM network to predict financial time
+                  series.
+Program_24d.m --- CNN for image classification.
+vectorflied.m --- Plot a vectorfield on a phase portrait.
+
+
+Simulink Files
+Chapter 22
+
+Simulink_1.slx --- Series Resistor-Inductor Circuit
+Simulink_2.slx --- Series Resistor-Inductor-Capacitor Circuit
+Simulink_3.slx --- The van der Pol Circuit
+Simulink_4.slx --- A Periodically Forced Pendulum
+Simulink_5.slx --- Simple Fiber Ring (SFR) Resonator
+Simulink_6.slx --- Chaos Control in a SFR Resonator
+Simulink_7.slx --- The Lorenz Equations
+Simulink_8.slx --- Lorenz Equations and Chaos Synchronization
+Simulink_9.slx --- SFR Gaussian Input
+Simulink_10.slx --- Generalized Synchronization
+
+The End
