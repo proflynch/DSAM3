@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 2nd Edition %
+% DYNAMICAL SYSTEMS WITH APPLICATIONS USING MATLAB 3rd Edition %
 % COPYRIGHT SPRINGER INTERNATIONAL 2024    STEPHEN LYNCH       %
 % BOOK PUBLISHED USING R2024b                                  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
