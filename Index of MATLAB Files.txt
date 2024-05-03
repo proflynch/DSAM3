@@ -64,8 +64,9 @@ Program_10b.m --- Runge-Kutta method (RK4).
 Program_10c.m --- PDE: The heat equation, heat in a rod.
 Program_10d.m --- PDE: The wave equation, animation of a guitar string.
 Program_11a.m --- Phase portrait of a linear system.
-Program_11b.m --- Phase portrait of a nonlinear system. Program_12a.m --- Phase portrait and time series: predator/prey
-model.
+Program_11b.m --- Phase portrait of a nonlinear system. 
+Program_12a.m --- Phase portrait and time series: predator/prey
+		  model.
 Program_13a.m --- Limit cycle of the van der Pol system.
 Program_13b.m --- Limit cycle of a Fitzhugh-Nagumo system.
 Program_13c.m --- Non-convex limit cycle.
